@@ -6,7 +6,7 @@ Reactjs + Spring Boot CRUD Full Stack Application
 <br>
 <h1> Spring Boot Backend </h1>
 <br>
-Create Springboot project using SpringToolSuite4 IDE by importing this project as maven project
+Create Springboot project using SpringToolSuite4 IDE by importing this project as maven project (springbootreactmysql)
 <br>
 Added SpringWeb, DevTools, Spring Data JPA, MySQL Driver and Lombok dependencies. Cross check with pom.xml
 <br>
