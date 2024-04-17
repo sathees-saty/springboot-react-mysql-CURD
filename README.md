@@ -76,4 +76,10 @@ On the root of the project, open the command prompt, execute the following comma
 <br>
 npm start
 <br>
+<img src="https://github.com/sathees-saty/springboot-react-mysql-CURD/assets/65384711/b20ce87d-bf2c-4ca2-a00a-3f94c51106be" alt="react" width="500" height="600">
+
+<br>
+
+![image](https://github.com/sathees-saty/springboot-react-mysql-CURD/assets/65384711/b20ce87d-bf2c-4ca2-a00a-3f94c51106be)
+
 </html>
